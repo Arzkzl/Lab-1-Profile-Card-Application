@@ -1,3 +1,5 @@
+#Lab-1-Profile-Card-Application
+
 This is a simple Android application built with Kotlin and Jetpack Compose. The app displays a profile card containing a circular image, a name, and a short biography.
 
 #Features
