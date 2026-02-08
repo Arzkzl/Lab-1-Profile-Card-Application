@@ -91,8 +91,8 @@ fun ProfileCardPreview() {
         ProfileCard(
             name= "Arzu Yilmaz Kizilin",
             bio="I'm a Computer Information Technology student with an interest in mobile applications. I enjoy learning, creating, and turning ideas into simple, usable applications.",
-            //I added the same modifiers for the main screen in the preview because
-            //without them the full layout was not visible in the preview window.
+            //I added the same modifiers for the main screen in the preview.
+            //Because without them the full layout was not visible in the preview window.
             modifier=Modifier
                     .fillMaxSize()
                     .padding(16.dp)
